@@ -38,6 +38,7 @@ The pipeline follows the **Medallion Architecture**:
    - Used for BI dashboards and advanced analytics.  
 
 ---
+![Image Alt](https://github.com/elmagry123/Healthcare-Data-Pipeline/blob/f61b54bc1850b6775793fac1d96816ff54b25154/pipe.jpg)
 
 ## 🗂️ Data Model (Galaxy Schema ERD)
 The project implements a **Galaxy Schema** with **3 Fact Tables** and **8 Dimension Tables**.
