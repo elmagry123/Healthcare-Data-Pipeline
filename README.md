@@ -9,6 +9,8 @@ The data is ingested in layers (**Bronze → Silver → Gold**) to ensure proper
 
 ---
 
+ ![Image Alt](https://github.com/elmagry123/Healthcare-Data-Pipeline/blob/d05cb64b32187f5bc2b292d264d96fc518d73b77/1754752014694.jpeg)
+
 ## 🛠️ Tech Stack
 - **Microsoft Fabric OneLake** → Storage and Lakehouse management.  
 - **PySpark** → Data processing and transformations.  
